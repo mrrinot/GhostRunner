@@ -1,0 +1,62 @@
+﻿Build started 10/06/2016 23:57:57.
+     1>Project "E:\Epitech\godisagirl\Build\GhostRunner.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\SFML\include /IE:\Epitech\godisagirl\include /IE:\Epitech\godisagirl\Common\include /IE:\Epitech\godisagirl\Common\dependencies\include /IE:\Epitech\godisagirl\SoundEngine\include /IE:\Epitech\godisagirl\SoundEngine\dependencies\include /IE:\Epitech\godisagirl\PhysicEngine\include /IE:\Epitech\godisagirl\PhysicEngine\dependencies\include /IE:\Epitech\godisagirl\InputEngine\include /IE:\Epitech\godisagirl\InputEngine\dependencies\include /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D SFML_STATIC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"GhostRunner.dir\Debug\\" /Fd"GhostRunner.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\src\Tools\Ini.cpp E:\Epitech\godisagirl\src\Tools\WINFS.cpp E:\Epitech\godisagirl\src\Tools\WINFSReader.cpp E:\Epitech\godisagirl\src\Tools\TextInBox.cpp E:\Epitech\godisagirl\src\Tools\PauseOverlay.cpp E:\Epitech\godisagirl\src\Tools\WinOverlay.cpp E:\Epitech\godisagirl\src\AssetManager.cpp E:\Epitech\godisagirl\src\PatternTemplate.cpp E:\Epitech\godisagirl\src\main.cpp E:\Epitech\godisagirl\src\BasicWall.cpp E:\Epitech\godisagirl\src\Scene.cpp E:\Epitech\godisagirl\src\GameObject.cpp E:\Epitech\godisagirl\src\Player.cpp E:\Epitech\godisagirl\src\Animation.cpp E:\Epitech\godisagirl\src\BasicTrap.cpp E:\Epitech\godisagirl\src\Camera.cpp E:\Epitech\godisagirl\src\MapGenerator.cpp E:\Epitech\godisagirl\src\Block.cpp E:\Epitech\godisagirl\src\EndBlock.cpp E:\Epitech\godisagirl\src\GhostController.cpp E:\Epitech\godisagirl\src\HeroController.cpp E:\Epitech\godisagirl\src\GameGUI.cpp E:\Epitech\godisagirl\src\IAdditionalDrawableInfo.cpp E:\Epitech\godisagirl\src\AdditionalDrawableBar.cpp E:\Epitech\godisagirl\src\AdditionalDrawableText.cpp E:\Epitech\godisagirl\src\AdditionalDrawableHitboxOutline.cpp E:\Epitech\godisagirl\src\Animator.cpp E:\Epitech\godisagirl\src\Screens\GameScreen.cpp E:\Epitech\godisagirl\src\Screens\MainMenuScreen.cpp E:\Epitech\godisagirl\src\Screens\MenuScreen.cpp E:\Epitech\godisagirl\src\Screens\LoadingScreen.cpp E:\Epitech\godisagirl\src\Screens\HowToPlay.cpp E:\Epitech\godisagirl\src\Screens\Credits.cpp E:\Epitech\godisagirl\src\Screens\ConfirmationScreen.cpp E:\Epitech\godisagirl\src\FPSCounter.cpp E:\Epitech\godisagirl\src\RaceProgress.cpp E:\Epitech\godisagirl\src\Dash.cpp E:\Epitech\godisagirl\src\Dodge.cpp E:\Epitech\godisagirl\src\Inflate.cpp E:\Epitech\godisagirl\src\MenuController.cpp E:\Epitech\godisagirl\src\InputBox\InputBox.cpp E:\Epitech\godisagirl\src\InputBox\SFMLCustomStuff.cpp
+         Ini.cpp
+         WINFS.cpp
+         WINFSReader.cpp
+         TextInBox.cpp
+         PauseOverlay.cpp
+     1>E:\Epitech\godisagirl\include\Tools/PauseOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         WinOverlay.cpp
+     1>E:\Epitech\godisagirl\include\Tools/WinOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         AssetManager.cpp
+         PatternTemplate.cpp
+         main.cpp
+     1>E:\Epitech\godisagirl\include\Tools/PauseOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>E:\Epitech\godisagirl\include\Tools/WinOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         BasicWall.cpp
+         Scene.cpp
+         GameObject.cpp
+         Player.cpp
+     1>E:\Epitech\godisagirl\src\Player.cpp(301): warning C4244: 'initializing' : conversion from '__int64' to 'float', possible loss of data
+         Animation.cpp
+         BasicTrap.cpp
+         Camera.cpp
+         MapGenerator.cpp
+     1>E:\Epitech\godisagirl\src\MapGenerator.cpp(70): warning C4101: 'tmp' : unreferenced local variable
+         Block.cpp
+         EndBlock.cpp
+         GhostController.cpp
+         Generating Code...
+         Compiling...
+         HeroController.cpp
+         GameGUI.cpp
+     1>E:\Epitech\godisagirl\src\GameGUI.cpp(82): warning C4267: 'initializing' : conversion from 'size_t' to 'unsigned long', possible loss of data
+         IAdditionalDrawableInfo.cpp
+         AdditionalDrawableBar.cpp
+         AdditionalDrawableText.cpp
+         AdditionalDrawableHitboxOutline.cpp
+         Animator.cpp
+     1>E:\Epitech\godisagirl\src\Animator.cpp(86): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+         GameScreen.cpp
+     1>E:\Epitech\godisagirl\include\Tools/PauseOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>E:\Epitech\godisagirl\include\Tools/WinOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(43): warning C4244: 'argument' : conversion from 'unsigned int' to 'const float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(103): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(166): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(167): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(174): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(232): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\GameScreen.cpp(233): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+         MainMenuScreen.cpp
+     1>E:\Epitech\godisagirl\src\Screens\MainMenuScreen.cpp(34): warning C4244: 'argument' : conversion from 'size_t' to 'float', possible loss of data
+     1>E:\Epitech\godisagirl\src\Screens\MainMenuScreen.cpp(128): warning C4267: '+=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Done Building Project "E:\Epitech\godisagirl\Build\GhostRunner.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:15.77

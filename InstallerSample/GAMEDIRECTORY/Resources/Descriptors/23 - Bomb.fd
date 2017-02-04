@@ -1,0 +1,16 @@
+[General]
+ID=23
+Path=./Resources/images/Bomb_Monster.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=10
+
+[Positions]
+0=0,0:825/897
+1=825,0:825/897
+2=1650,0:825/897
+3=2475,0:825/897
+4=0,897:825/897
+5=825,897:825/897
+6=1650,897:825/897
+7=2475,897:825/897

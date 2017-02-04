@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Epitech\godisagirl\Common\src\Vector2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\Common\src\Logger\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\Common\src\Logger\LogHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\Common\src\Logger\LoggerCallbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\Common\src\Logger\LoggerOptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Vector2.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Logger.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\PrettyPrinter.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Logger\Logger.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Logger\LoggerCallbacks.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Logger\LoggerOptions.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\Common\include\Logger\LogHandler.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Epitech\godisagirl\Common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06C959DE-4954-439C-8C1E-67812B84E69A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08717F90-3D52-49FF-9595-6DBFF472727C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

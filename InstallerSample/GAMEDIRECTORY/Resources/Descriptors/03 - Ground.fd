@@ -1,0 +1,7 @@
+[General]
+ID=3
+Path=./Resources/images/ground.jpg
+Type=SPRITE
+
+[Positions]
+0=0,0:1800/80

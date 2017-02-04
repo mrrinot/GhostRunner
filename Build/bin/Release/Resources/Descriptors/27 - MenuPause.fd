@@ -1,0 +1,7 @@
+[General]
+ID=27
+Path=./Resources/images/PauseMenu.png
+Type=SPRITE
+
+[Positions]
+0=0,0:600/300

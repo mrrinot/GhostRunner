@@ -1,0 +1,7 @@
+[General]
+ID=30
+Path=./Resources/images/WinMenu.png
+Type=SPRITE
+
+[Positions]
+0=0,0:600/300

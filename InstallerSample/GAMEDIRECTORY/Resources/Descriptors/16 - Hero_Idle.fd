@@ -1,0 +1,10 @@
+[General]
+ID=16
+Path=./Resources/images/Idle.png
+Type=ANIM
+AnimType=YOYO
+IntervalTime=180
+
+[Positions]
+0=0,0:679/604
+1=679,0:679/604

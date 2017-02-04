@@ -1,0 +1,94 @@
+﻿Build started 11/06/2016 00:04:50.
+     1>Project "E:\Epitech\godisagirl\Build\GhostRunner.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\SFML\include /IE:\Epitech\godisagirl\include /IE:\Epitech\godisagirl\Common\include /IE:\Epitech\godisagirl\Common\dependencies\include /IE:\Epitech\godisagirl\SoundEngine\include /IE:\Epitech\godisagirl\SoundEngine\dependencies\include /IE:\Epitech\godisagirl\PhysicEngine\include /IE:\Epitech\godisagirl\PhysicEngine\dependencies\include /IE:\Epitech\godisagirl\InputEngine\include /IE:\Epitech\godisagirl\InputEngine\dependencies\include /nologo /W3 /WX- /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D SFML_STATIC /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"GhostRunner.dir\Release\\" /Fd"GhostRunner.dir\Release\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\src\main.cpp
+         main.cpp
+     1>E:\Epitech\godisagirl\include\Tools/PauseOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>E:\Epitech\godisagirl\include\Tools/WinOverlay.hh(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Epitech\godisagirl\Build\bin\Release\GhostRunner.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\SFML\lib\sfml-system-s.lib" "..\SFML\lib\sfml-window-s.lib" "..\SFML\lib\sfml-graphics-s.lib" ..\SFML\lib\freetype.lib ..\SFML\lib\glew.lib ..\SFML\lib\jpeg.lib opengl32.lib winmm.lib gdi32.lib lib\Release\CommonToolsLib.lib lib\Release\SoundEngine.lib lib\Release\PhysicEngine.lib lib\Release\InputEngine.lib ..\SoundEngine\dependencies\lib\fmodL64_vc.lib lib\Release\CommonToolsLib.lib ..\InputEngine\dependencies\lib\dinput8.lib ..\InputEngine\dependencies\lib\dxguid.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:/Epitech/godisagirl/Build/bin/Release/GhostRunner.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Epitech/godisagirl/Build/lib/Release/GhostRunner.lib" /MACHINE:X64  /machine:x64 GhostRunner.dir\Release\Ini.obj
+         GhostRunner.dir\Release\WINFS.obj
+         GhostRunner.dir\Release\WINFSReader.obj
+         GhostRunner.dir\Release\TextInBox.obj
+         GhostRunner.dir\Release\PauseOverlay.obj
+         GhostRunner.dir\Release\WinOverlay.obj
+         GhostRunner.dir\Release\AssetManager.obj
+         GhostRunner.dir\Release\PatternTemplate.obj
+         GhostRunner.dir\Release\main.obj
+         GhostRunner.dir\Release\BasicWall.obj
+         GhostRunner.dir\Release\Scene.obj
+         GhostRunner.dir\Release\GameObject.obj
+         GhostRunner.dir\Release\Player.obj
+         GhostRunner.dir\Release\Animation.obj
+         GhostRunner.dir\Release\BasicTrap.obj
+         GhostRunner.dir\Release\Camera.obj
+         GhostRunner.dir\Release\MapGenerator.obj
+         GhostRunner.dir\Release\Block.obj
+         GhostRunner.dir\Release\EndBlock.obj
+         GhostRunner.dir\Release\GhostController.obj
+         GhostRunner.dir\Release\HeroController.obj
+         GhostRunner.dir\Release\GameGUI.obj
+         GhostRunner.dir\Release\IAdditionalDrawableInfo.obj
+         GhostRunner.dir\Release\AdditionalDrawableBar.obj
+         GhostRunner.dir\Release\AdditionalDrawableText.obj
+         GhostRunner.dir\Release\AdditionalDrawableHitboxOutline.obj
+         GhostRunner.dir\Release\Animator.obj
+         GhostRunner.dir\Release\GameScreen.obj
+         GhostRunner.dir\Release\MainMenuScreen.obj
+         GhostRunner.dir\Release\MenuScreen.obj
+         GhostRunner.dir\Release\LoadingScreen.obj
+         GhostRunner.dir\Release\HowToPlay.obj
+         GhostRunner.dir\Release\Credits.obj
+         GhostRunner.dir\Release\ConfirmationScreen.obj
+         GhostRunner.dir\Release\FPSCounter.obj
+         GhostRunner.dir\Release\RaceProgress.obj
+         GhostRunner.dir\Release\Dash.obj
+         GhostRunner.dir\Release\Dodge.obj
+         GhostRunner.dir\Release\Inflate.obj
+         GhostRunner.dir\Release\MenuController.obj
+         GhostRunner.dir\Release\InputBox.obj
+         GhostRunner.dir\Release\SFMLCustomStuff.obj
+         GhostRunner.vcxproj -> E:\Epitech\godisagirl\Build\bin\Release\GhostRunner.exe
+       PostBuildEvent:
+         setlocal
+         F:\CMake\bin\cmake.exe -E copy_directory E:/Epitech/godisagirl/SFML/bin/ E:/Epitech/godisagirl/Build/bin/Release
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         setlocal
+         F:\CMake\bin\cmake.exe -E copy_directory E:/Epitech/godisagirl/SoundEngine/dependencies/bin/ E:/Epitech/godisagirl/Build/bin/Release
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         setlocal
+         F:\CMake\bin\cmake.exe -E copy_directory E:/Epitech/godisagirl/Resources E:/Epitech/godisagirl/Build/bin/Release/Resources
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         setlocal
+         F:\CMake\bin\cmake.exe -E copy_directory E:/Epitech/godisagirl/Resources E:/Epitech/godisagirl/Build/Resources
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+     1>Done Building Project "E:\Epitech\godisagirl\Build\GhostRunner.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.61

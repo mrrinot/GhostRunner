@@ -1,0 +1,14 @@
+[General]
+ID=8
+Difficulty=7.0
+ChanceOfSpawn=100
+
+[Pattern]
+0=EBEEE
+1=EEEBB
+2=BBEEE
+3=EEEBE
+4=BBBBB
+
+[PatternCompatibility]
+nextTo=3,4,7,8,11

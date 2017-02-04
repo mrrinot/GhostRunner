@@ -1,0 +1,16 @@
+[General]
+ID=25
+Path=./Resources/images/Red_Skull.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=10
+
+[Positions]
+0=0,0:906/898
+1=906,0:906/898
+2=1812,0:906/898
+3=2718,0:906/898
+4=0,898:906/898
+5=906,898:906/898
+6=1812,898:906/898
+7=2718,898:906/898

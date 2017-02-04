@@ -1,0 +1,14 @@
+﻿Build started 10/06/2016 23:57:53.
+     1>Project "E:\Epitech\godisagirl\Build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because E:/Epitech/godisagirl/Build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because E:/Epitech/godisagirl/Build/Common/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because E:/Epitech/godisagirl/Build/SoundEngine/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because E:/Epitech/godisagirl/Build/PhysicEngine/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because E:/Epitech/godisagirl/Build/InputEngine/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "E:\Epitech\godisagirl\Build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20

@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\Ini.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\WINFS.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\WINFSReader.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\TextInBox.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\PauseOverlay.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Tools\WinOverlay.cpp">
+      <Filter>Sources\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\AssetManager.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\PatternTemplate.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\BasicWall.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Scene.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\GameObject.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Player.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Animation.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\BasicTrap.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Camera.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\MapGenerator.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Block.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\EndBlock.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\GhostController.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\HeroController.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\GameGUI.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\IAdditionalDrawableInfo.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\AdditionalDrawableBar.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\AdditionalDrawableText.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\AdditionalDrawableHitboxOutline.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Animator.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\GameScreen.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\MainMenuScreen.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\MenuScreen.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\LoadingScreen.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\HowToPlay.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\Credits.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Screens\ConfirmationScreen.cpp">
+      <Filter>Sources\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\FPSCounter.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\RaceProgress.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Dash.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Dodge.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\Inflate.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\MenuController.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\InputBox\InputBox.cpp">
+      <Filter>Sources\InputBox</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\src\InputBox\SFMLCustomStuff.cpp">
+      <Filter>Sources\InputBox</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\Ini.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\WINFS.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\WINFSReader.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\TextInBox.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\PauseOverlay.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Tools\WinOverlay.hh">
+      <Filter>Headers\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\AssetManager.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\PatternTemplate.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\BasicWall.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Scene.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\GameObject.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Player.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Animation.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\BasicTrap.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Camera.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\MapGenerator.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Block.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\EndBlock.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\GhostController.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\HeroController.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\GameGUI.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\IAdditionalDrawableInfo.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\AdditionalDrawableBar.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\AdditionalDrawableText.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\AdditionalDrawableHitboxOutline.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Animator.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\IScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\GameScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\MainMenuScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\MenuScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\LoadingScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\HowToPlay.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\Credits.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Screens\ConfirmationScreen.hh">
+      <Filter>Headers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\FPSCounter.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\RaceProgress.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\IAction.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Dash.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Dodge.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\GlobalInfos.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\Inflate.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\MenuController.hh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\InputBox\InputBox.hh">
+      <Filter>Headers\InputBox</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\InputBox\SFMLCustomStuff.hh">
+      <Filter>Headers\InputBox</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\InputBox\IKeyboardTranslator.hh">
+      <Filter>Headers\InputBox</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\include\InputBox\IControllerTranslator.hh">
+      <Filter>Headers\InputBox</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Epitech\godisagirl\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers\Tools">
+      <UniqueIdentifier>{697A7490-91F4-48B2-9A32-BEFC099444F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\Screens">
+      <UniqueIdentifier>{DD23455E-9285-47E5-A2D1-9BF0EA92E60A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\InputBox">
+      <UniqueIdentifier>{955894A3-221D-4C5D-AC94-9A42A2F295C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Tools">
+      <UniqueIdentifier>{8179B47B-C176-410D-80E5-EE0CF472B972}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Screens">
+      <UniqueIdentifier>{648BE278-C3D1-44E1-A42D-F042D7C6D5C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\InputBox">
+      <UniqueIdentifier>{5FE070B8-28C6-4D4F-A8E0-04BB3AF999CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{399CF071-F4F5-4767-BB29-090ECD3BC650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{4E314C65-1115-4C8B-96BC-09833807E8A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+[General]
+ID=17
+Path=./Resources/images/Dash.png
+Type=ANIM
+AnimType=YOYO
+IntervalTime=5
+
+[Positions]
+0=0,0:2020/1035
+1=0,1035:2020/1035
+2=0,2070:2020/1035

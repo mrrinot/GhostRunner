@@ -1,0 +1,14 @@
+[General]
+ID=uint
+Difficulty=[1.0 - 10.0]
+ChanceOfSpawn=[0 - 100]
+
+[Pattern]
+0=XXXXX
+1=XXXXX
+2=XXXXX
+3=XXXXX
+4=XXXXX
+
+[PatternCompatibility]
+nextTo=1,5,9 ....

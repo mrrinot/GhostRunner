@@ -1,0 +1,6 @@
+[General]
+ID=11
+Path=./Resources/images/brick.png
+Type=SPRITE
+[Positions]
+0=0,0:16/16

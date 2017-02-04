@@ -1,0 +1,21 @@
+﻿Build started 10/06/2016 23:58:22.
+     1>Project "E:\Epitech\godisagirl\Build\PhysicEngine\PhysicEngine.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/PhysicEngine/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Build\PhysicEngine\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\PhysicEngine\include /IE:\Epitech\godisagirl\PhysicEngine\..\include /IE:\Epitech\godisagirl\PhysicEngine\..\Common\include /nologo /W3 /WX- /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"PhysicEngine.dir\Release\\" /Fd"PhysicEngine.dir\Release\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\PhysicEngine\src\BoxCollider.cpp E:\Epitech\godisagirl\PhysicEngine\src\Layer.cpp E:\Epitech\godisagirl\PhysicEngine\src\RigidBody.cpp
+         BoxCollider.cpp
+         Layer.cpp
+         RigidBody.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\Build\lib\Release\PhysicEngine.lib" /NOLOGO /MACHINE:X64 PhysicEngine.dir\Release\BoxCollider.obj
+         PhysicEngine.dir\Release\Layer.obj
+         PhysicEngine.dir\Release\RigidBody.obj
+         PhysicEngine.vcxproj -> E:\Epitech\godisagirl\Build\lib\Release\PhysicEngine.lib
+     1>Done Building Project "E:\Epitech\godisagirl\Build\PhysicEngine\PhysicEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27

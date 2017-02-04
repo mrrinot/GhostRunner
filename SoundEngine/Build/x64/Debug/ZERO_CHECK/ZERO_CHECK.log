@@ -1,0 +1,10 @@
+﻿Build started 21/10/2015 01:39:31.
+     1>Project "E:\Epitech\godisagirl\SoundEngine\Build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because E:/Epitech/godisagirl/SoundEngine/Build/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "E:\Epitech\godisagirl\SoundEngine\Build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

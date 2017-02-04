@@ -1,0 +1,12 @@
+[General]
+ID=9
+Path=./Resources/images/PlayerName.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=30
+
+[Positions]
+0=000,0:219/60
+1=219,0:219/60
+2=438,0:219/60
+3=657,0:219/60

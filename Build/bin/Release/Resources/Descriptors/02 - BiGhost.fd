@@ -1,0 +1,7 @@
+[General]
+ID=2
+Path=./Resources/images/ghost.png
+Type=SPRITE
+
+[Positions]
+0=0,0:628/640

@@ -1,0 +1,23 @@
+﻿Build started 10/06/2016 23:57:53.
+     1>Project "E:\Epitech\godisagirl\Build\SoundEngine\SoundEngine.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/SoundEngine/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Build\SoundEngine\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\SoundEngine\include /IE:\Epitech\godisagirl\SoundEngine\dependencies\include /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"SoundEngine.dir\Debug\\" /Fd"SoundEngine.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\SoundEngine\src\SoundEngine.cpp E:\Epitech\godisagirl\SoundEngine\src\AudioExeption.cpp E:\Epitech\godisagirl\SoundEngine\src\IdAlreadyTakeExeption.cpp E:\Epitech\godisagirl\SoundEngine\src\NotFoundExeption.cpp
+         SoundEngine.cpp
+         AudioExeption.cpp
+         IdAlreadyTakeExeption.cpp
+         NotFoundExeption.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\Build\lib\Debug\SoundEngine_d.lib" /NOLOGO /MACHINE:X64 SoundEngine.dir\Debug\SoundEngine.obj
+         SoundEngine.dir\Debug\AudioExeption.obj
+         SoundEngine.dir\Debug\IdAlreadyTakeExeption.obj
+         SoundEngine.dir\Debug\NotFoundExeption.obj
+         SoundEngine.vcxproj -> E:\Epitech\godisagirl\Build\lib\Debug\SoundEngine_d.lib
+     1>Done Building Project "E:\Epitech\godisagirl\Build\SoundEngine\SoundEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.25

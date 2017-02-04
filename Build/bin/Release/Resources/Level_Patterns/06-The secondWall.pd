@@ -1,0 +1,14 @@
+[General]
+ID=6
+Difficulty=3.0
+ChanceOfSpawn=100
+
+[Pattern]
+0=BEEEE
+1=BEEEE
+2=BEEEE
+3=BEEEE
+4=BEEEE
+
+[PatternCompatibility]
+nextTo=none

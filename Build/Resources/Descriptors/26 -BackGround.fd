@@ -1,0 +1,7 @@
+[General]
+ID=26
+Path=./Resources/images/BackGround.png
+Type=SPRITE
+
+[Positions]
+0=0,0:2000/2000

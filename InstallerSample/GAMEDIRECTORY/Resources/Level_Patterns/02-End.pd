@@ -1,0 +1,14 @@
+[General]
+ID=2
+Difficulty=0.0
+ChanceOfSpawn=0
+
+[Pattern]
+0=EEEEB
+1=EEEEB
+2=EEEEB
+3=EEDEB
+4=BBBBB
+
+[PatternCompatibility]
+nextTo=none

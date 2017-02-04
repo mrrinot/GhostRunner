@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Epitech\godisagirl\SoundEngine\src\SoundEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\SoundEngine\src\AudioExeption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\SoundEngine\src\IdAlreadyTakeExeption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\SoundEngine\src\NotFoundExeption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Epitech\godisagirl\SoundEngine\include\AudioExeption.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\SoundEngine\include\IdAlreadyTakeExeption.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\SoundEngine\include\NotFoundExeption.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\SoundEngine\include\SoundEngine.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Epitech\godisagirl\SoundEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06C959DE-4954-439C-8C1E-67812B84E69A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08717F90-3D52-49FF-9595-6DBFF472727C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

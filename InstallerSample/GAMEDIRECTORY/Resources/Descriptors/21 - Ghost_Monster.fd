@@ -1,0 +1,16 @@
+[General]
+ID=21
+Path=./Resources/images/Ghost_Monster.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=10
+
+[Positions]
+0=0,0:705/904
+1=705,0:705/904
+2=0,904:705/904
+3=705,904:705/904
+4=0,1808:705/904
+5=705,1808:705/904
+6=0,2712:705/904
+7=705,2712:705/904

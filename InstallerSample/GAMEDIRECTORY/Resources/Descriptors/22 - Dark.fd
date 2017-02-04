@@ -1,0 +1,16 @@
+[General]
+ID=22
+Path=./Resources/images/Dark_Bat.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=10
+
+[Positions]
+0=0,0:884/780
+1=884,0:884/780
+2=1768,0:884/780
+3=2652,0:884/780
+4=0,780:884/780
+5=884,780:884/780
+6=1768,780:884/780
+7=2652,780:884/780

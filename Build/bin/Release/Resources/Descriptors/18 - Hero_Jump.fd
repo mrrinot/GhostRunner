@@ -1,0 +1,14 @@
+[General]
+ID=18
+Path=./Resources/images/Jump.png
+Type=ANIM
+AnimType=FREEZE
+IntervalTime=10
+
+[Positions]
+0=0,3039:701/561
+1=0,0:693/619
+2=0,619:701/664
+3=0,1283:701/622
+4=0,1905:701/582
+5=0,2487:701/552

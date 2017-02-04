@@ -1,0 +1,11 @@
+[General]
+ID=uint
+Path=path to texture sheet
+Type= ANIM | SPRITE
+AnimType= ONCE | LOOP | YOYO | FREEZE
+IntervalTime=float (miliseconds between each frames)
+
+[Positions]
+0=x1,y1:w/h : position of top-left corner + width and height
+1=x2,y2,w/h
+

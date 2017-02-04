@@ -1,0 +1,35 @@
+﻿Build started 22/10/2015 00:13:21.
+     1>Project "E:\Epitech\godisagirl\PhysicEngine\Build\PhysicEngine.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/PhysicEngine/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\PhysicEngine\Build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\PhysicEngine\Includes /IE:\Epitech\godisagirl\PhysicEngine\..\Common\Includes /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"PhysicEngine.dir\Debug\\" /Fd"PhysicEngine.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\PhysicEngine\Sources\AEnvironmentalEffect.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\BoxCollider.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\CollisionData.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\CollisionSolver.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\GameObject.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\Gravity.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\Layer.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\RigidBody.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\Scene.cpp E:\Epitech\godisagirl\PhysicEngine\Sources\Transform.cpp
+         AEnvironmentalEffect.cpp
+         BoxCollider.cpp
+         CollisionData.cpp
+         CollisionSolver.cpp
+         GameObject.cpp
+         Gravity.cpp
+         Layer.cpp
+         RigidBody.cpp
+         Scene.cpp
+         Transform.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\PhysicEngine\Build\Debug\PhysicEngine.lib" /NOLOGO /MACHINE:X64 PhysicEngine.dir\Debug\AEnvironmentalEffect.obj
+         PhysicEngine.dir\Debug\BoxCollider.obj
+         PhysicEngine.dir\Debug\CollisionData.obj
+         PhysicEngine.dir\Debug\CollisionSolver.obj
+         PhysicEngine.dir\Debug\GameObject.obj
+         PhysicEngine.dir\Debug\Gravity.obj
+         PhysicEngine.dir\Debug\Layer.obj
+         PhysicEngine.dir\Debug\RigidBody.obj
+         PhysicEngine.dir\Debug\Scene.obj
+         PhysicEngine.dir\Debug\Transform.obj
+         PhysicEngine.vcxproj -> E:\Epitech\godisagirl\PhysicEngine\Build\Debug\PhysicEngine.lib
+     1>Done Building Project "E:\Epitech\godisagirl\PhysicEngine\Build\PhysicEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.26

@@ -1,0 +1,14 @@
+[General]
+ID=3
+Difficulty=2.0
+ChanceOfSpawn=100
+
+[Pattern]
+0=EEEEE
+1=EEEEE
+2=EEEEE
+3=EEEEE
+4=BBBBB
+
+[PatternCompatibility]
+nextTo=4,7,9,11,13

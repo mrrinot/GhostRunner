@@ -1,0 +1,25 @@
+﻿Build started 10/06/2016 23:57:53.
+     1>Project "E:\Epitech\godisagirl\Build\Common\CommonToolsLib.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/Common/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Build\Common\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\Common\include /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"CommonToolsLib.dir\Debug\\" /Fd"CommonToolsLib.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\Common\src\Vector2.cpp E:\Epitech\godisagirl\Common\src\Logger\Logger.cpp E:\Epitech\godisagirl\Common\src\Logger\LogHandler.cpp E:\Epitech\godisagirl\Common\src\Logger\LoggerCallbacks.cpp E:\Epitech\godisagirl\Common\src\Logger\LoggerOptions.cpp
+         Vector2.cpp
+         Logger.cpp
+         LogHandler.cpp
+         LoggerCallbacks.cpp
+         LoggerOptions.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\Build\lib\Debug\CommonToolsLib_d.lib" /NOLOGO /MACHINE:X64 CommonToolsLib.dir\Debug\Vector2.obj
+         CommonToolsLib.dir\Debug\Logger.obj
+         CommonToolsLib.dir\Debug\LogHandler.obj
+         CommonToolsLib.dir\Debug\LoggerCallbacks.obj
+         CommonToolsLib.dir\Debug\LoggerOptions.obj
+         CommonToolsLib.vcxproj -> E:\Epitech\godisagirl\Build\lib\Debug\CommonToolsLib_d.lib
+     1>Done Building Project "E:\Epitech\godisagirl\Build\Common\CommonToolsLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.55

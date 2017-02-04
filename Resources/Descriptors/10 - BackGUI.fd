@@ -1,0 +1,6 @@
+[General]
+ID=10
+Path=./Resources/images/BackGUI.png
+Type=SPRITE
+[Positions]
+0=00,0:1900/100

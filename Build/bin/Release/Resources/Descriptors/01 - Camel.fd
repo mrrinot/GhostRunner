@@ -1,0 +1,7 @@
+[General]
+ID=1
+Path=./Resources/images/test.jpg
+Type=SPRITE
+
+[Positions]
+0=0,0:1200/795

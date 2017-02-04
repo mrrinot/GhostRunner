@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Epitech\godisagirl\InputEngine\src\Gamepad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\InputEngine\src\InputEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\InputEngine\src\KeyBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Epitech\godisagirl\InputEngine\src\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Epitech\godisagirl\InputEngine\include\Gamepad.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\InputEngine\include\InputEngine.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\InputEngine\include\KeyBoard.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\InputEngine\include\Utils.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Epitech\godisagirl\InputEngine\include\InputDevice.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Epitech\godisagirl\InputEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06C959DE-4954-439C-8C1E-67812B84E69A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08717F90-3D52-49FF-9595-6DBFF472727C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+﻿Build started 10/06/2016 23:58:19.
+     1>Project "E:\Epitech\godisagirl\Build\InputEngine\InputEngine.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/InputEngine/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Build\InputEngine\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\InputEngine\include /IE:\Epitech\godisagirl\InputEngine\dependencies\include /nologo /W3 /WX- /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"InputEngine.dir\Release\\" /Fd"InputEngine.dir\Release\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\InputEngine\src\Gamepad.cpp E:\Epitech\godisagirl\InputEngine\src\InputEngine.cpp E:\Epitech\godisagirl\InputEngine\src\KeyBoard.cpp E:\Epitech\godisagirl\InputEngine\src\Utils.cpp
+         Gamepad.cpp
+         InputEngine.cpp
+         KeyBoard.cpp
+         Utils.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\Build\lib\Release\InputEngine.lib" /NOLOGO /MACHINE:X64 InputEngine.dir\Release\Gamepad.obj
+         InputEngine.dir\Release\InputEngine.obj
+         InputEngine.dir\Release\KeyBoard.obj
+         InputEngine.dir\Release\Utils.obj
+         InputEngine.vcxproj -> E:\Epitech\godisagirl\Build\lib\Release\InputEngine.lib
+     1>Done Building Project "E:\Epitech\godisagirl\Build\InputEngine\InputEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.04

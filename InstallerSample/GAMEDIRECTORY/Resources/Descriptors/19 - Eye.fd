@@ -1,0 +1,16 @@
+[General]
+ID=19
+Path=./Resources/images/Eye_Monster.png
+Type=ANIM
+AnimType=LOOP
+IntervalTime=10
+
+[Positions]
+0=0,0:968/934
+1=968,0:968/934
+2=1936,0:968/934
+3=2904,0:968/934
+4=0,934:968/934
+5=968,934:968/934
+6=1936,934:968/934
+7=2904,934:968/934

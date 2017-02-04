@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Epitech\godisagirl\SoundEngine\Build\CMakeFiles\fe4a81fd064a8c46038d6deccf0b12dd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FCFA8B1F-E6C6-4007-B0E7-D63CC2C3B834}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

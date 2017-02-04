@@ -1,0 +1,7 @@
+[General]
+ID=6
+Path=./Resources/images/spike.png
+Type=SPRITE
+
+[Positions]
+0=0,0:103/25

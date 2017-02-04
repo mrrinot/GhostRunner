@@ -1,0 +1,8 @@
+Ghost Runner (Runner, platforming)				
+					
+Ghost runner is a 2D sidescroller with platforms mechanics. It's a local versus game with up to 4 people fighting against each other. One player is alive and tries to reach the end while dodging the other player. Their goal is to kill the runner and take his place to finish the race.
+					
+Raphael Ricard - Game designer / developper
+Lucas Hertzog - Developper
+Cedric Sana - Graphic developer
+Vincent Lermanou - Physic designer / developer				

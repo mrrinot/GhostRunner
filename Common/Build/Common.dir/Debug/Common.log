@@ -1,0 +1,16 @@
+﻿Build started 21/10/2015 01:06:41.
+     1>Project "E:\Epitech\godisagirl\Common\Build\Common.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Epitech/godisagirl/Common/CMakeLists.txt
+         CMake does not need to re-run because E:\Epitech\godisagirl\Common\Build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\Epitech\godisagirl\Common\Includes /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Common.dir\Debug\\" /Fd"Common.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt E:\Epitech\godisagirl\Common\Sources\Vector2.cpp
+         Vector2.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Epitech\godisagirl\Common\Build\Debug\Common.lib" /NOLOGO /MACHINE:X64 Common.dir\Debug\Vector2.obj
+         Common.vcxproj -> E:\Epitech\godisagirl\Common\Build\Debug\Common.lib
+     1>Done Building Project "E:\Epitech\godisagirl\Common\Build\Common.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

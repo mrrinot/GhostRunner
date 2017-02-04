@@ -1,0 +1,7 @@
+[General]
+ID=28
+Path=./Resources/images/HowToPlay.png
+Type=SPRITE
+
+[Positions]
+0=0,0:1851/1040
